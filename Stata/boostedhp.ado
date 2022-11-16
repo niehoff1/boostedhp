@@ -6,7 +6,7 @@
 
 program define boostedhp, eclass
 
-	version 16.0
+	version 15.1
 	
 	syntax varlist(min=1 max=1) [if] [in] , [CYcle(string) TRend(string) TRENDHist(string)] [SMooth(real 1600) MAXiter(int 100)] [NSTop ORIginal]
 	
